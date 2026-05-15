@@ -1,0 +1,14 @@
+{
+  "id": "cnk_pearl_jam",
+  "pack":{
+    "description":"Pearl Jam, an addon for Crop and Kettle!",
+    "min_format": [
+      84,
+      0
+    ],
+    "max_format": [
+      84,
+      0
+    ]
+  }
+}

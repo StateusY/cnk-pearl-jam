@@ -1,0 +1,25 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "when": [
+          "head",
+          "firstperson_righthand",
+          "firstperson_lefthand",
+          "thirdperson_righthand",
+          "thirdperson_lefthand"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "pearl_jam:block/pearl_jam_plush"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "pearl_jam:item/pearl_jam_plush"
+    },
+    "property": "minecraft:display_context"
+  }
+}

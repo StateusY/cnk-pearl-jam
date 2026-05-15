@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {"translate":"item.pearl_jam.pearl_jam_plush","fallback":"Pearl Jam Plush"},
+                "minecraft:item_model": "pearl_jam:pearl_jam_plush",
+                "minecraft:custom_data": {"cnk":{"block":{"type":"pearl_jam_plush"}},"smithed":{"ignore":{"functionality":true,"crafting":true}}},
+                "minecraft:lore": [{"translate":"item.pearl_jam.pearl_jam_plush.desc","font":"minecraft:default","color":"gray","italic":false},{"translate":"pearl_jam.tooltip","font":"pearl_jam:tooltip","color":"white","italic":false}],
+                "minecraft:profile": {"texture":"cnk:block/transparent_head"},
+                "minecraft:max_stack_size": 1,
+                "tooltip_display": {"hidden_components":["minecraft:profile"]},
+                "minecraft:rarity":"common",
+                "minecraft:equippable": {"slot": "head"}
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "parent": "cnk:cookbook/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:poisonous_potato",
+            "predicates": {
+              "minecraft:custom_data": {"cnk":{"block":{"type":"pearl_jam_plush"}}}
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "pearl_jam:cookbook/grant/pearl_jam_plush"
+  }
+}
