@@ -1,0 +1,27 @@
+{
+  "item.plush.squeak": {
+    "sounds": [
+      {
+        "name": "pearl_jam:plush/squeak1",
+        "volume": 0.5
+      },
+      {
+        "name": "pearl_jam:plush/squeak2",
+        "volume": 0.5
+      },
+      {
+        "name": "pearl_jam:plush/squeak3",
+        "volume": 0.5
+      },
+      {
+        "name": "pearl_jam:plush/squeak4",
+        "volume": 0.5
+      },
+      {
+        "name": "pearl_jam:plush/squeak5",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.spiced.item.plush.squeak"
+  }
+}

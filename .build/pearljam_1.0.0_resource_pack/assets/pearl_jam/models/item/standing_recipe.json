@@ -1,0 +1,7 @@
+{
+  "parent":"cnk:item/recipe",
+  "textures": {
+    "0": "pearl_jam:item/standing_recipe",
+    "particle": "pearl_jam:item/standing_recipe"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "pack": {
+    "description": [
+      [
+        {
+          "text": "Pearl Jam, an addon for Crop and Kettle!"
+        }
+      ]
+    ],
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": [
+      107,
+      1
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_101_1",
+        "min_format": [
+          94,
+          1
+        ],
+        "max_format": [
+          101,
+          1
+        ]
+      }
+    ]
+  },
+  "id": "cnk_pearl_jam"
+}

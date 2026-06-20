@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pearl_jam:item/pearl_jam_plush"
+  }
+}

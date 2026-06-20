@@ -1,0 +1,24 @@
+data_pack:
+    load: .
+    overlays:
+        - directory: overlay_101_1
+          min_format: [94,1]
+          max_format: [101,1]
+    min_format: [94,1]
+    max_format: [107,1]
+    zipped: true
+
+resource_pack:
+    load: .
+    min_format: [75,0]
+    max_format: [88,0]
+    zipped: true
+
+pipeline:
+    - mecha
+
+output: .build
+
+"description": [
+    {"text":"Pearl Jam, an addon for Crop and Kettle!"}
+]

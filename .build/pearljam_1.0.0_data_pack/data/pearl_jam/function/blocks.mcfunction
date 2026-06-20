@@ -1,0 +1,1 @@
+execute if entity @s[tag=pearl_jam.pearl_jam_plush] run return run function pearl_jam:pearl_jam_plush/tick

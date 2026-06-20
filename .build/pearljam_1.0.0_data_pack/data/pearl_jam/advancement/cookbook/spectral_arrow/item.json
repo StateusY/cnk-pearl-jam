@@ -1,0 +1,18 @@
+{
+  "parent": "cnk:cookbook/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:spectral_arrow"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "pearl_jam:cookbook/grant/spectral_arrow"
+  }
+}
