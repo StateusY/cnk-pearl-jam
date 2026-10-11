@@ -1,1 +1,0 @@
-function cnk:villager/add_loot_table {loot_table: "pearl_jam:standing_recipe"}

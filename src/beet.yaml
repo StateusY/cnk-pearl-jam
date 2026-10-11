@@ -4,8 +4,11 @@ data_pack:
         - directory: overlay_101_1
           min_format: [94,1]
           max_format: [101,1]
+        - directory: overlay_121
+          min_format: [120,1]
+          max_format: [121,1]
     min_format: [94,1]
-    max_format: [107,1]
+    max_format: [121,1]
     zipped: true
 
 resource_pack:
@@ -13,9 +16,6 @@ resource_pack:
     min_format: [75,0]
     max_format: [88,0]
     zipped: true
-
-pipeline:
-    - mecha
 
 output: .build
 
