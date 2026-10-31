@@ -10,7 +10,7 @@ HEY! This is an addon datapack! It will do nothing or break if Crop and Kettle (
 ## FAQ:
 > Why aren't the textures working?
 > 
-BELOW the downloadable datapack file you can find the resource pack Make sure to add it to your resource pack folder and enable it. (If you are using the mod version, this doesn't apply to you.) (If you are using an older version before 1.0.0, the file acts as both the datapack and resource pack.~~~~)
+BELOW the downloadable datapack file you can find the resource pack Make sure to add it to your resource pack folder and enable it. (If you are using the mod version, this doesn't apply to you.) (If you are using an older version before 1.0.0, the file acts as both the datapack and resource pack.)
 
 > Will you port to version XYZ?
 > 
