@@ -1,4 +1,4 @@
-# C&K: Pearl Jam
+# ![cnkpj](https://cdn.modrinth.com/data/cached_images/1ab031095bae1925c7cffe02a3fc9a549001b971.png)
 C&K: Pearl Jam is small addon for Crop and Kettle that adds a Pearl Jam plush from JoJo's Bizzare Adventure.
 
 Currently C&K: Pearl Jam adds the Pearl Jam plush, a small plushie that can be cooked up with Crop and Kettle's cooking pot!
